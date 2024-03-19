@@ -5,7 +5,7 @@ TOTP second factor made easy, browser on desktop only<br>
 An implementation for browser, ideally for desktop only, of 6-digits second factor approach.<br>
 Key features:<br>
   just drag&drop or copy&paste QR code image, nothing to type.<br>
-  save locally the secret, in an encrypted format via a 'Master Password'.<br>
+  save locally the secret, in an AES256 salted format, via a 'Master Password'.<br>
   choose between cookie and local storage, as you prefer.<br>
 <br>
 <b>ToDo list</b><br>
