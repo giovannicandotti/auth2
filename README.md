@@ -11,3 +11,8 @@ Key features:<br>
 <b>ToDo list</b><br>
 Set your own salt, or implement a method to retrieve from a server to add a security layer.<br>
 Increase the 'iterations' to a decent value (e.g. 600.000 instead of current 6.000)<br>
+<br>
+<br>
+<b>Usage</b><br>
+Download the 'auth' folder and related files to a web server.<br>
+Use '/auth/img/myOldTotp.png' as example picture for Case 4.<br>
