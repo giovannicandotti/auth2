@@ -18,3 +18,6 @@ Increase the 'iterations' to a decent value (e.g. 600.000 instead of current 6.0
 <b>Usage</b><br>
 Download the 'auth' folder and related files to a web server.<br>
 Use '/auth/img/myOldTotp.png' as example picture for Case 4.<br>
+<br>
+![alt text](https://github.com/giovannicandotti/auth2/blob/main/demo.png?raw=true)
+
