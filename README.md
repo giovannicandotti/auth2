@@ -13,6 +13,7 @@ Key features:<br>
 <b>ToDo list</b><br>
 Set your own salt, or implement a method to retrieve from a server to add a security layer.<br>
 Increase the 'iterations' to a decent value (e.g. 600.000 instead of current 6.000)<br>
+'vectorialize' the variables which stores <i>Issuer</i> and <i>Secret</i> to save more than (current) one touple.<br>
 <br>
 <br>
 <b>Usage</b><br>
