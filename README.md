@@ -14,7 +14,7 @@ An implementation for browser, ideally for desktop only, of 6-digits second fact
 
 **Key features**:
   * just drag&drop or copy&paste QR code image, nothing to type.
-  * save locally the secret, in an AES256 salted format, via a 'Master Password'.
+  * save locally the secret, in an AES256 salted encrypted format, via a 'Master Password'.
   * choose between cookie and local storage, as you prefer.
 
 
