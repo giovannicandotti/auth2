@@ -29,7 +29,7 @@ An implementation for browser, ideally for desktop only, of 6-digits second fact
 
 Download the 'auth' folder and related files to a web server.
 
-Use '/auth/img/myOldTotp.png' as example picture for Case 4.
+Use 'auth2/img/myOldTotp.png' as example picture for Case 4.
 
 ![alt text](https://github.com/giovannicandotti/auth2/blob/main/demo.png?raw=true)
 
