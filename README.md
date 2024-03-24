@@ -1,6 +1,9 @@
 # auth2
+
 TOTP second factor made easy, with just a browser on desktop.
+
 Nothing to be installed.
+
 Really.
 
 **TL;DR;**
@@ -18,7 +21,9 @@ Key features:
 
 
 **Usage**
+
 Download the 'auth' folder and related files to a web server.
+
 Use '/auth/img/myOldTotp.png' as example picture for Case 4.
 
 ![alt text](https://github.com/giovannicandotti/auth2/blob/main/demo.png?raw=true)
