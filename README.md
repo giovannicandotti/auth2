@@ -12,10 +12,10 @@ Really.
 
 
 **Key features**:
-  * just drag&drop or copy&paste QR code image, nothing to type.
-  * save locally the secret, in an AES256 salted encrypted format, via a 'Master Password'.
-  * use a popup to avoid browser storage of Master Password.
-  * choose between cookie and local storage.
+  * Just drag&drop or copy&paste QR code image, nothing to type.
+  * Save locally the secret, in an AES256 salted encrypted format, via a 'Master Password'.
+  * Use a popup to avoid browser storage of Master Password.
+  * Choose between cookie and local storage.
 
 
 **ToDo list**
@@ -27,7 +27,7 @@ Really.
 
 **Usage**
 
-Download the 'auth' folder and related files to a web server.
+Download the 'auth' folder and related files to your web server.
 
 Use 'auth2/img/myOldTotp.png' as example picture for Case 4.
 
