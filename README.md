@@ -6,7 +6,7 @@ TOTP second factor made easy, with just a browser on desktop. And - optionally -
 
 An implementation for browser, ideally for desktop only, of 6-digits second factor approach.
 
-Nothing to be installed.
+Nothing to be installed client side.
 
 Really.
 
