@@ -1,15 +1,14 @@
 # auth2
 
-TOTP second factor made easy, with just a browser on desktop.
-
-Nothing to be installed.
-
-Really.
-
+TOTP second factor made easy, with just a browser on desktop. And - optionally - more secure via a Master Password.
 
 **TL;DR;**
 
 An implementation for browser, ideally for desktop only, of 6-digits second factor approach.
+
+Nothing to be installed.
+
+Really.
 
 
 **Key features**:
