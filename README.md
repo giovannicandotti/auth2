@@ -1,6 +1,6 @@
 # auth2
 
-TOTP second factor made easy, with just a browser on desktop. And - optionally - more secure via a Master Password.
+TOTP second factor made easy, with just a browser on desktop or mobile(!). And - optionally - more secure via a Master Password.
 
 **TL;DR;**
 
